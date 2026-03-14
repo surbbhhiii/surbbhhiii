@@ -1,6 +1,8 @@
-![logo](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c2d64f4ceaf86da9becca355e41d219d-1696690622/luigi%20LOFI%20sample%20export%206%20alt/create-awesome-pixel-art-animations-and-illustrations.gif)
+
 <h1 align="center">Hi 👋, I'm Khushi Maurya</h1>
 <h3 align="center">💻 Coding Learner 🚀 Future Software Developer</h3>
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLl3kRF5kgLnxju_1ZD17bcyO2FY8KcAYhSA&s">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surbbhhiii&label=Profile%20views&color=0e75b6&style=flat" alt="surbbhhiii" /> </p>
 
